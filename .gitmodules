@@ -1,0 +1,6 @@
+[submodule "poll-api"]
+	path = poll-api
+	url = https://github.com/HoarauJeremy/poll-api.git
+[submodule "poll-front"]
+	path = poll-front
+	url = https://github.com/HoarauJeremy/poll-front.git
